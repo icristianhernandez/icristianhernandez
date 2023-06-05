@@ -2,11 +2,13 @@
 
 <div>
   <center>
+
   [//]: # (graphic of github streak stats)
   <img align="center" width="40%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=crishgit" alt="crishgit github streak stats" />
 
   [//]: # (github all stats)
   <img align="center" width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=crishgit&how_icons=true&locale=en" alt="crishgit github all stats" />
+
   </center>
 </div>
 
