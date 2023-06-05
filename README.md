@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=800&center=true&vCenter=true&width=1000&height=100&lines=Cristian+Hernandez;ILoveU<3)](https://git.io/typing-svg)
 
-<div>
+<div style="display: flex; flex-direction: row; justify-content: space-between;" >
 
   [//]: # (graphic of github streak stats)
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crishgit" alt="crishgit github streak stats" /></p>
