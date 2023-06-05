@@ -3,10 +3,10 @@
 <div>
 
   [//]: # (graphic of github streak stats)
-  <p><img align="center" width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=crishgit" alt="crishgit github streak stats" /></p>
+  <img align="center" width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=crishgit" alt="crishgit github streak stats" />
 
   [//]: # (github all stats)
-  <p>&nbsp;<img align="center" width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=crishgit&how_icons=true&locale=en" alt="crishgit github all stats" /></p>
+  <img align="center" width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=crishgit&how_icons=true&locale=en" alt="crishgit github all stats" />
 
 </div>
 
