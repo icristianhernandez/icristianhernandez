@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td> <img style="width: 100%; height: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=crishgit" alt="crishgit github streak stats" /> </td>
-    <td> <img style="width: 100%; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=crishgit&how_icons=true&locale=en" alt="crishgit github all stats" /> </td>
+    <td> <img style="width: 100%; height: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=icristianhernandez" alt="crishgit github streak stats" /> </td>
+    <td> <img style="width: 100%; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=icristianhernandez&how_icons=true&locale=en" alt="crishgit github all stats" /> </td>
   </tr>
 </table>
 
