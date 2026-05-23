@@ -1,18 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=800&center=true&vCenter=true&width=1000&height=100&lines=Cristian+Hernandez;Web+Developer)](https://git.io/typing-svg)
+# ![Cristian Hernandez - Software Engineer · Backend · Infrastructure · Fullstack Web · DBA](header.svg)
 
-<table>
-  <tr>
-    <td> <img style="width: 100%; height: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=icristianhernandez" alt="crishgit github streak stats" /> </td>
-    <td> <img style="width: 100%; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=icristianhernandez&how_icons=true&locale=en" alt="crishgit github all stats" /> </td>
-  </tr>
-</table>
+## Tech Stack
 
+ <!-- markdownlint-disable MD033 MD013 -->
+<div role="group" aria-label="Programming languages and tools">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Supabase-1A7A50?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS">
+  <img src="https://img.shields.io/badge/Git-B52B16?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</div>
 
+## Currently Working On
 
+**Backend for the USM academic services platform** using PostgreSQL/Supabase,
+CI/CD, and managing infrastructure, replacing paper-based workflows for roughly
+600 students and 30 staff members across two campuses.
 
+## Featured Projects are Pinned Below
 
-
-<!--
-source repo: https://github.com/gus-rkds/gus-rkds/blob/main/README.md
-             https://rahuldkjain.github.io/gh-profile-readme-generator/
--->
+[Contact via email](mailto:cristianmedia9007@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/cristian-hern%C3%A1ndez-66b457304) ·
+[GitHub](https://github.com/icristianhernandez)
