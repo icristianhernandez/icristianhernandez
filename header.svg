@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="svgTitle svgDesc" xml:lang="en">
   <title id="svgTitle">Cristian Hernandez - Software Engineer</title>
   <desc id="svgDesc">Backend, database, infrastructure, and web developer</desc>
-  <text x="500" y="90" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="58" font-weight="700" fill="#36BCF7">Cristian Hernandez</text>
-  <text x="500" y="150" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="32" fill="#8892b0">Software Engineer</text>
-  <text x="500" y="200" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="29" fill="#8892b0">Backend · Infrastructure · Fullstack Web · DBA </text>
+  <text x="500" y="90" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="54" font-weight="700" fill="#36BCF7">Cristian Hernandez</text>
+  <text x="500" y="150" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="30" fill="#8892b0">Software Engineer</text>
+  <text x="500" y="200" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="27" fill="#8892b0">Backend · Infrastructure · Fullstack Web · DBA </text>
 </svg>
